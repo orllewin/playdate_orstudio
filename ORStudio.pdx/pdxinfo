@@ -1,0 +1,8 @@
+name=ORStudio
+author=Orllewin
+description=Audio looper toy.
+bundleID=orllewin.playdate.or_studio
+version=1.0.0
+imagePath=Images/
+pdxversion=11200
+buildtime=728689965
